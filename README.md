@@ -1,4 +1,4 @@
-# quiz_maker
+# Q-Faculty
 
 A new Flutter project.
 
