@@ -1,4 +1,4 @@
-# Learnium-Faculty
+# Q-Faculty
 
 A new Flutter project.
 
