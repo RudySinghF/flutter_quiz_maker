@@ -1,4 +1,4 @@
-# Learniu
+# Learnium
 
 A new Flutter project.
 
